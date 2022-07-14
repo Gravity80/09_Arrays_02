@@ -1,3 +1,31 @@
+Skip to content
+Search or jump to…
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@Gravity80 
+01-PP
+/
+09_Arrays_02
+Public
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+09_Arrays_02/arr_01.js /
+@przygoda
+przygoda Add files via upload
+Latest commit 88cadaa 4 hours ago
+ History
+ 1 contributor
+85 lines (67 sloc)  1.94 KB
+
 /*********   Theorie **********/
 
 // push() / pop()
@@ -83,3 +111,17 @@ function getElement(tag,op) {
 function output(inputData) {
     console.log(inputData);
 }
+Footer
+© 2022 GitHub, Inc.
+Footer navigation
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
